@@ -1,0 +1,17 @@
+Recomendations:
+This is a list of recommendations to make this project better 
+(UI, UX, Performance, Security, Architecture, Bug fix, New Feature, ...etc )
+
+// Please make your recommendations as clear as possible with only a few sentences 
+
+1. index.html line 41 make profile pic small
+
+2.index.html line 41 add Logout button
+
+3. server.js line 5 make website https( more secure)
+
+4.server.js line 7 password is variable for change password  
+5.server.js line 27 read chaged password 
+6.index.html line 51 write passwordon file
+
+
